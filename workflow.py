@@ -7,7 +7,7 @@ from cache import get_cached_response, cache_response
 
 # Load API keys
 load_dotenv()
-GROQ_API_KEY = os.getenv("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")
+GROQ_API_KEY = os.getenv("...........................")
 
 # Web Search Agent with Caching
 def search_web(inputs):
