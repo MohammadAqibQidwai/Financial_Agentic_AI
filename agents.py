@@ -7,7 +7,7 @@ from phi.tools.yfinance import YFinanceTools
 
 # Load API keys from .env
 load_dotenv()
-GROQ_API_KEY = os.getenv("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")
+GROQ_API_KEY = os.getenv(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 
 # Define Web Search Agent
 web_search_agent = Agent(
