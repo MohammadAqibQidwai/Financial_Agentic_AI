@@ -1,0 +1,8 @@
+phi
+langchain
+groq
+python-dotenv
+uvicorn
+fastapi
+duckduckgo-search
+yfinance
